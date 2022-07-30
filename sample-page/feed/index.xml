@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Комментарии: Пример страницы	</title>
-	<atom:link href="/https://pashtet365.github.io/WordPress/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://pashtet365.github.io/WordPress/</link>
+	<atom:link href="https://pashtet365.github.io/WordPress/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pashtet365.github.io/WordPress/</link>
 	<description>Ещё один сайт на WordPress</description>
 	<lastBuildDate>Sat, 30 Jul 2022 08:36:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
