@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Golubev_Pavel</title>
-	<atom:link href="https://golubevpavel.ga/feed/" rel="self" type="application/rss+xml" />
+	<title>Без рубрики &#8212; Golubev_Pavel</title>
+	<atom:link href="https://golubevpavel.ga/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/feed/" rel="self" type="application/rss+xml" />
 	<link>https://golubevpavel.ga/</link>
 	<description>Сайт визитка</description>
 	<lastBuildDate>Sat, 30 Jul 2022 08:36:11 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://golubevpavel.ga/wp-content/uploads/2022/07/cropped-occzbhTF6-k-32x32.jpg</url>
-	<title>Golubev_Pavel</title>
+	<title>Без рубрики &#8212; Golubev_Pavel</title>
 	<link>https://golubevpavel.ga/</link>
 	<width>32</width>
 	<height>32</height>
